@@ -1,0 +1,17 @@
+ECOMMERCE ONLINE STORE ANALYSIS
+
+
+VIEW AND DOWNLOAD:
+Kaggle: Brazilian E-Commerce Public Dataset by Olist
+https://www.kaggle.com/olistbr/brazilian-ecommerce
+
+Kaggle: Marketing Funnel by Olist
+https://www.kaggle.com/olistbr/marketing-funnel-olist
+
+
+DIRECT DOWNLOAD:
+Kaggle: Brazilian E-Commerce Public Dataset by Olist
+https://www.kaggle.com/olistbr/brazilian-ecommerce/download
+
+Kaggle: Marketing Funnel by Olist
+https://www.kaggle.com/olistbr/marketing-funnel-olist/download
